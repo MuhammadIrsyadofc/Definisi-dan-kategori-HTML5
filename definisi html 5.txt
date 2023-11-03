@@ -1,0 +1,11 @@
+html 5 adalah html versi terbaru yang di kembangkan oleh WHATWG (Web Hypertext Aplication Technology Working Group)
+di bentuk orang-orang apple, mozila foundation, dan opera .
+
+kategori html 5 :
+1. flow content
+2. meta data
+3. sectioning
+4. heading content
+5. phrasing content
+6. embedded content
+7. interactive content
